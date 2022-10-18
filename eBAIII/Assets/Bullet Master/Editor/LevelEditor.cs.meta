@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f48846a8524546249b63b7e80bacebf9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - playerCamera: {fileID: 7220652396371526926, guid: dda5b556b64a7f1429678e22246e4adb, type: 3}
+  - environment: {fileID: 109715408449188943, guid: cdc43475287f56445b92d240af996e98, type: 3}
+  - enimies: {fileID: 3242522793124547207, guid: 359e367d379672f4899a28e5b1424ad2, type: 3}
+  - player: {fileID: 6081117886784108603, guid: 59cea5fdf1d9262488e04d86c6b74219, type: 3}
+  - enemy: {fileID: 3122339198617345388, guid: 91d3e9c2685f7e3439a821ed3dea9284, type: 3}
+  - cartridges: {fileID: 11400000, guid: 3697967df4f757449a05523587243cd1, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

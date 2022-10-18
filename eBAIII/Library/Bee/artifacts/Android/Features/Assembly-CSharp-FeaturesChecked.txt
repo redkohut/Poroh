@@ -1,0 +1,4 @@
+UnityEngine.Input::set_multiTouchEnabled
+UnityEngine.Handheld::Vibrate
+UnityEngine.Input::GetTouch
+UnityEngine.Input::get_touchCount
